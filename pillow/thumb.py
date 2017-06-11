@@ -5,7 +5,7 @@ def thumb():
     print(im.format,im.size,im.mode)
     im.thumbnail((100,100))
     im.save('thumb.png','PNG')
-
+    
 
 thumb()
 
