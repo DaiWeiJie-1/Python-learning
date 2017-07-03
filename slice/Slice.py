@@ -25,4 +25,5 @@ print(L1[:7:2])
 
 L2 = ('a','b','c','d','e')
 
+#tuple和list slice一样
 print(L2[:3])
